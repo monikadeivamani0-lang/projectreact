@@ -1,5 +1,5 @@
 import React from "react";
-import "./ProductDetails.css";
+import "./productdetails.css";
 import { useNavigate } from "react-router-dom";
 
 const relatedProducts = [
